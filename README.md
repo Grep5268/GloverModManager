@@ -44,3 +44,6 @@ When ready hit the load mods button and it will copy the files over. Then you ca
 
 ## Unload Mods
 Ensure you have the glover directory selected, and you did not mess with the backup folder. Then just hit the reset mod button and it will revert all changes. Any files not in the base game will still remain for now.
+
+## Troubleshooting
+Try running as administrator
