@@ -21,6 +21,11 @@ When you start up the mod manager, select the directory for your Glover install,
  
  The mods folder is where you will place mods you create or download.
 
+For more advanced mods (changing the exe), please use the binary diff/patch tools
+https://github.com/GaryFrazier/bsdiff
+
+If you are confused please request a tutorial video and I will make one.
+
 ### folder structure
 For a mod to work, it MUST match the folder structure of the files in the "data" folder in order to replace files correctly. For example, if you want to replace this texture:
 
